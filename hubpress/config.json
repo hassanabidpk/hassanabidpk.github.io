@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "hassanabidpk",
-    "repositoryName": "hassanabidpk.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"hassanabidpk","repositoryName":"hassanabidpk.github.io","branch":"master"},"site":{"title":"Hassan Abid","postsPerPage":"4","googleAnalytics":"UA-32474920-2","disqus":"hassanabid","url":"http://hassanabidpk.github.io"},"socialnetwork":{"email":"hassanabidpk89@gmail.com","twitter":"hassanabidpk","facebook":"hassanabidpk89","github":"hassanabidpk"},"theme":{"name":"Casper","url":"http://hassanabidpk.github.io/themes/Casper"}}
