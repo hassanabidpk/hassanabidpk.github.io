@@ -1,0 +1,3 @@
+# Creating blog with Hubpress
+
+Try it out !
